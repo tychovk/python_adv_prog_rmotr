@@ -4,7 +4,9 @@ Python advanced programming bootcamp personal files
 The different weeks of exercises are branched.
 
 The RMOTR programming bootcamp lasted from November 2015 till February 2015, with 2.5 weeks of intensive coding for a project in a team of 3. We proudly present the product: 
+
 http://www.spotifest.co/
+
 https://github.com/tychovk/spotifest
 
 
