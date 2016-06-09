@@ -1,4 +1,4 @@
-# python_adv_prog_rmotr
+# Python Advance Programming Bootcamp RMOTR
 Python advanced programming bootcamp personal files
 
 The different weeks of exercises are branched.
